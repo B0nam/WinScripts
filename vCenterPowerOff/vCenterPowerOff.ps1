@@ -1,7 +1,7 @@
 #ip vcenter
 $vCenter = "IP do servidor"
 #cRedenciais
-$usuario = "Usuariol"
+$usuario = "Usuario"
 $senha	 = "Senha"
 #localizacao da lista de hosts
 $diretorio = Get-Location
